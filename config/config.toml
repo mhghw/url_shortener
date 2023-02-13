@@ -1,0 +1,5 @@
+    BaseUrl = "http://localhost:7000"
+    Port = "7000"
+[Mongo]
+    DB = "shortUrl"
+    URI = "mongodb://localhost:27017"
